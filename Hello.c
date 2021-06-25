@@ -9,6 +9,7 @@
  * 
  */
 #include "stdio.h"
+
 int Var = 100;
 int main()
 {
