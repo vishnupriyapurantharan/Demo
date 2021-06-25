@@ -9,7 +9,7 @@
  * 
  */
 #include "stdio.h"
-printf("Hi Everyone !! Prithvi Here, Parallel Commit from other side the planet ");
+printf("Hi Everyone !! Prithvi Here, Parallel Commit from other side the planet ")
 int Var = 100;
 int main()
 {
