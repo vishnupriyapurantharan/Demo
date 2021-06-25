@@ -9,13 +9,14 @@
  * 
  */
 #include "stdio.h"
-printf("Hi Everyone !! Prithvi Here, Parallel Commit from other side the planet ")
+
 int Var = 100;
 int main()
 {
     for(int index = 0; index< 10; index++)
         printf("Welcome to STEPin Program, Var = %d", Var+index);
     
+    printf("Hi Everyone !! Prithvi Here, Parallel Commit from other side the planet ");
     return 0;
 }
 
