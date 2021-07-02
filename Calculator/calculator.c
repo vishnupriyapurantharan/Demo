@@ -1,7 +1,7 @@
 #include "stdlib.h"
 #include "calculator.h"
 
-error_code division(complex_t *C1, complex_t *C2, complex_t* res)
+error_code division(complex_t *C1, complex_t *C2, complex_t *res)
 {
     if(NULL != C1 && NULL != C2 && NULL != res)
         return NULL_PTR;
